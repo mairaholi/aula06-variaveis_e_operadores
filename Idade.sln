@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Idade", "Idade\Idade.csproj", "{7B1DDEAA-F62F-41BE-9849-08392DC3B9D4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdadeApp", "Idade\IdadeApp.csproj", "{7B1DDEAA-F62F-41BE-9849-08392DC3B9D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{34E47277-27C5-4807-9FF4-3762C3F6C770}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioApp", "DesafioApp\DesafioApp.csproj", "{05EB7D2C-C07C-4BE6-BF01-AC0212101E4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{7B1DDEAA-F62F-41BE-9849-08392DC3B9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B1DDEAA-F62F-41BE-9849-08392DC3B9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B1DDEAA-F62F-41BE-9849-08392DC3B9D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EB7D2C-C07C-4BE6-BF01-AC0212101E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EB7D2C-C07C-4BE6-BF01-AC0212101E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EB7D2C-C07C-4BE6-BF01-AC0212101E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EB7D2C-C07C-4BE6-BF01-AC0212101E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

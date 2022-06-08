@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿var nomeDoUsuario = "João";
+var idadeDoUsuario = 20;
+var anoAtual = 2022;
+
+// Utilize a mensagem a seguir como base do retorno esperado:
+// Olá João, você nasceu em XXXX.
+
